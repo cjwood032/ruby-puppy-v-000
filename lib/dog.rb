@@ -3,7 +3,7 @@ class Dog
   def initialize(puppy)
     @@all << puppy
   end
-  def .clear_all
+  def clear_all
     @@all.clear
   end
   
