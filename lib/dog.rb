@@ -1,7 +1,8 @@
 class Dog
   
   def .clear_all
-    @@all=[]
+    @@all.clear
+  end
   
   
   
